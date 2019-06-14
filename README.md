@@ -1,9 +1,11 @@
 # WiFi Hotspot for Linux :penguin:
-Creating a Wi-Fi hotspot easily.
+Create a Wi-Fi hotspot easily!
 
 ## Installation
 ```sh
-sudo chmod 755 ./wifi-hotspot.sh
+git clone https://github.com/mateus4k/wifi-hotspot
+cd wifi-hotspot
+sudo chmod 755 wifi-hotspot.sh
 ```
 ## Usage example
 Enable:
